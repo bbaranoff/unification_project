@@ -219,5 +219,3 @@ Ce résultat confirme :
 * la compatibilité du **formalisme spectral** avec les observations cosmologiques ;
 * la production automatique de figures statiques et interactives.
 
-Souhaites-tu que je te formate aussi un **`requirements.txt`** et un **`setup.py`** minimal pour rendre le dépôt directement installable (`pip install .`)?
-```
