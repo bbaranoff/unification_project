@@ -168,7 +168,7 @@ Utilisation et modification libres, avec mention de l’auteur.
 
 Si vous utilisez ce travail dans vos recherches :
 
-> Baranoff, B. (2025). *Unified Field and Spectral Formalism for Gravitational Wave Analysis*. GitHub repository. [https://github.com/bbaranoff/unified-field-ligo](https://github.com/bbaranoff/unification_project)
+> Baranoff, B. (2025). *Unified Field and Spectral Formalism for Gravitational Wave Analysis*. GitHub repository. [https://github.com/bbaranoff/unification_project](https://github.com/bbaranoff/unification_project)
 
 ---
 
