@@ -30,8 +30,7 @@ Il combine analyse théorique, simulation géométrique, et confrontation direct
 Python ≥ 3.9 et les bibliothèques suivantes :
 
 ```bash
-pip install numpy scipy matplotlib plotly gwpy gwosc
-````
+pip install numpy scipy matplotlib gwpy h5py requests tqdm pandas seaborn astropy plotly````
 
 ### 2️⃣ Cloner le dépôt
 
