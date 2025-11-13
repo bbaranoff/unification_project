@@ -48,7 +48,7 @@ def run_unificate():
     base = Path(__file__).parent.resolve()
     cwd = Path.cwd().resolve()
 
-    for name in ["unificate.py", "unficate.py"]:
+    for name in ["unificate.py"]:
         cand1 = base / name
         cand2 = cwd / name
         if cand1.exists():
