@@ -75,6 +75,15 @@ python ligo_spectral.py --event GW170817 --distance-mpc 40 --plot
 python ligo_spectral.py --event GW151226 --distance-mpc 440 --plot
 ```
 
+```bash
+bash run_all.sh
+python fight_ligo.py
+```
+
+```bash
+bash run_all_planck.sh
+python fight_ligo.py
+```
 Chaque exécution :
 
 * Télécharge automatiquement les données GWOSC H1 & L1
