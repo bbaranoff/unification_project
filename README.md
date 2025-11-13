@@ -49,11 +49,7 @@ cd unification_project
 Lancer la simulation complète et l’analyse intégrée :
 
 ```bash
-python3 main.py run   --events GW150914:410 GW151226:440 GW170104:880 GW170814:540 GW170817:40 --plots
-```
-
-```bash
-python unificate.py
+python3 main.py
 ```
 
 Cette commande exécute successivement :
