@@ -23,6 +23,7 @@ from gwpy.timeseries import TimeSeries
 c = 299792458.0
 M_sun = 1.98847e30
 Mpc = 3.085677581491367e22
+G = 6.67430e-11
 H_STAR = 6.49e-22  # amplitude RMS cible
 
 EVENT_PARAMS = {
