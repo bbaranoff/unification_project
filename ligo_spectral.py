@@ -2,7 +2,7 @@
 """
 Analyse cohérente LIGO H1–L1 (GWOSC)
 ------------------------------------
-- Calibration h★ fixe (=6.48e-22) avec renfort pseudo-SNR.
+- Calibration h★ fixe (=6.49e-22) avec renfort pseudo-SNR.
 - Fenêtre de bruit sécurisée.
 - Lissage log-log du spectre d'énergie.
 """
@@ -24,7 +24,7 @@ c = 299792458.0
 G = 6.67430e-11
 M_sun = 1.98847e30
 Mpc = 3.085677581491367e22
-H_STAR = 6.48e-22  # amplitude RMS cible
+H_STAR = 6.49e-22  # amplitude RMS cible
 
 EVENT_PARAMS = {
     "GW150914": {"flow": 20.0, "fhigh": 350.0, "signal_win": 1.2, "noise_pad": 1200.0},
@@ -214,7 +214,7 @@ def analyze_coherent_spectral(tsH, tsL, gps, distance_mpc, event_name="",
 # CLI
 # ==========================
 def main():
-    ap = argparse.ArgumentParser(description="Analyse LIGO cohérente h★=6.48e-22")
+    ap = argparse.ArgumentParser(description="Analyse LIGO cohérente h★=e-22")
     ap.add_argument("--event", required=True)
     ap.add_argument("--distance-mpc", type=float, required=True)
     ap.add_argument("--flow", type=float)
