@@ -21,7 +21,6 @@ from gwpy.timeseries import TimeSeries
 # Constantes physiques
 # ==========================
 c = 299792458.0
-G = 6.67430e-11
 M_sun = 1.98847e30
 Mpc = 3.085677581491367e22
 H_STAR = 6.49e-22  # amplitude RMS cible
