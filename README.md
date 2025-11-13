@@ -20,7 +20,7 @@ Il combine analyse théorique, simulation géométrique, et confrontation direct
 | `quantum_gravity_analysis.py` | Analyse quantique-gravitationnelle complète (échelles de Planck, ΩΛ, H₀) |
 | `visualization.py` | Visualisation statique et interactive (matplotlib + Plotly) |
 | `import_example.py` | Exemples d’import et d’utilisation rapide |
-| `unificate.py | Affiche des graphiques de champs unifiés |
+| `unificate.py` | Affiche des graphiques de champs unifiés |
 
 ---
 
